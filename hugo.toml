@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://mosouka.github.io/IVAR/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'reterminal'
@@ -7,3 +7,5 @@ theme = 'reterminal'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+publishDir = “docs”
+
