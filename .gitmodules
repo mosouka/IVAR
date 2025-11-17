@@ -1,0 +1,6 @@
+[submodule "hugoplate"]
+	path = hugoplate
+	url = https://github.com/zeon-studio/hugoplate
+[submodule "themes/reterminal"]
+	path = themes/reterminal
+	url = https://github.com/mirus-ua/hugo-theme-re-terminal.git
